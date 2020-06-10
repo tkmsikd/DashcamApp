@@ -1,0 +1,3 @@
+./set.sh
+# ダウンロードしたflutter.zip. binは$HOMEに移動済み.
+./downloads/
